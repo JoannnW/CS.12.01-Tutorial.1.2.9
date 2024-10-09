@@ -1,17 +1,17 @@
 import java.util.ArrayList;
 
 public class WordPair {
-    String firstWord;
-    String secondWord;
+    String first;
+    String second;
 
-    public WordPair(String firstWord, String secondWord){
-        this.firstWord = firstWord;
-        this.secondWord = secondWord;
+    public WordPair(String first, String second){
+        this.first = first;
+        this.second = second;
     }
-    public String getFirstWord(){
-        return getFirstWord();
+    public String getFirst(){
+        return first;
     }
-    public String getSecondWord(){
-        return getSecondWord();
+    public String getSecond(){
+        return second;
     }
 }
